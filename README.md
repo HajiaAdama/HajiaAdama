@@ -1,6 +1,7 @@
 # Hi there, I'm [Adama seidu]! 👋
 
-![Banner Image](your_banner_image_url_here)
+![Banner Image](![photo_2023-12-23_08-16-44](https://github.com/user-attachments/assets/90f99bec-bda9-4234-92ca-fcc648837ddc)
+)
 
 ## About Me 🚀
 
