@@ -39,7 +39,7 @@ I'm a passionate **[software engineer ]** with experience in **[front end web de
 ## Get in Touch 📬
 
 - **[Personal Website / Blog]**(your_website_or_blog_link)
-- **[LinkedIn]**(your_linkedin_profile_link)
-- **[Twitter]**(your_twitter_profile_link)
+- **[LinkedIn]**(Adama seidu)
+- **[Twitter]**(@adamaseidu2002)
 
 
